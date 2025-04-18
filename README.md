@@ -1,4 +1,4 @@
-Dearest Gentle Visitor,
+![profile views](https://komarev.com/ghpvc/?username=woaine&label=Dearest%20Gentle%20Visitor&color=129e00)
 
 Welcome to the little corner of the digital world of a sporadic coder who finds joy in data science and machine learning projects. Every repository here, though mostly private, is a page in my digital diary—each line of code a whispered note of curiosity.
 
