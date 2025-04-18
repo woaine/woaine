@@ -1,6 +1,6 @@
 ![profile views](https://komarev.com/ghpvc/?username=woaine&label=Dearest%20Gentle%20Visitor&color=129e00)
 
-Welcome to the little corner of the digital world of a sporadic coder who finds joy in data science and machine learning projects. Every repository here, though mostly private, is a page in my digital diary—each line of code a whispered note of curiosity.
+This little corner of the web belongs to a sporadic coder who thrives on exploring data science and machine learning projects. Every repository, though most are private, is like a page from my digital journal, with each line of code capturing a spark of curiosity.
 
 Here’s a glimpse of some of the tools that light up my workspace:
 
@@ -21,7 +21,7 @@ Here’s a glimpse of some of the tools that light up my workspace:
 <img width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />   
 </p>
 
-If you’d like to connect or see more of my endeavors, drop by on these platforms:
+If you’d like to connect or see more of my endeavors, feel free to visit me on these platforms:
 
 <p>
 <a href="https://www.linkedin.com/in/ejoyaine/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230366c3.svg?style=flat-square&logo=linkedin&logoColor=white&logoWidth=20" /></a> 
