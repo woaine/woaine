@@ -22,7 +22,13 @@ Here’s a glimpse of some of the tools that light up my workspace:
 </p>
 
 If you’d like to connect or see more of my endeavors, drop by on these platforms:
-[platforms here]
+
+<p>
+<a href="https://www.linkedin.com/in/ejoyaine/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230366c3.svg?style=flat-square&logo=linkedin&logoColor=white&logoWidth=20" /></a> 
+<a href="https://www.kaggle.com/woaine" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-%2320beff.svg?style=flat-square&logo=kaggle&logoColor=white&logoWidth=20" /></a>
+<a href="https://www.datacamp.com/portfolio/ejoyaine" target="_blank"><img alt="DataCamp" src="https://img.shields.io/badge/DataCamp-%129e00.svg?style=flat-square&logo=datacamp&logoColor=white&logoWidth=20" /></a>
+<a href="https://www.credly.com/users/ejoyaine" target="_blank"><img alt="Credly" src="https://img.shields.io/badge/Credly-%23fc720e.svg?style=flat-square&logo=credly&logoColor=white&logoWidth=20" /></a> 
+</p>
 
 Thank you for taking the time to step inside my world of code and creativity.
 
